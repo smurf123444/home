@@ -26,9 +26,9 @@
     "static/media/video-placeholder.jpg": "./static/media/video-placeholder.a622fc5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.46f0517b.chunk.js",
-    "static/css/main.4cd6f1c0.chunk.css",
-    "static/js/main.0b612cad.chunk.js"
+    "./static/js/runtime-main.b8b9f84b.js",
+    "./static/js/2.46f0517b.chunk.js",
+    "./static/css/main.4cd6f1c0.chunk.css",
+    "./static/js/main.0b612cad.chunk.js"
   ]
 }
