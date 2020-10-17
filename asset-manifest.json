@@ -1,15 +1,34 @@
 {
-  "main.css": "/static/css/main.e32b868a.chunk.css",
-  "main.js": "/static/js/main.891e2d94.chunk.js",
-  "main.js.map": "/static/js/main.891e2d94.chunk.js.map",
-  "static/css/1.17727a58.chunk.css": "/static/css/1.17727a58.chunk.css",
-  "static/js/1.1baf6bc0.chunk.js": "/static/js/1.1baf6bc0.chunk.js",
-  "static/js/1.1baf6bc0.chunk.js.map": "/static/js/1.1baf6bc0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.e32b868a.chunk.css.map": "/static/css/main.e32b868a.chunk.css.map",
-  "static/css/1.17727a58.chunk.css.map": "/static/css/1.17727a58.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.5f204534f798474db61857aaac519dcd.js": "/precache-manifest.5f204534f798474db61857aaac519dcd.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/ReactJSUdemy/static/css/main.23e044e2.chunk.css",
+    "main.js": "/ReactJSUdemy/static/js/main.98480109.chunk.js",
+    "main.js.map": "/ReactJSUdemy/static/js/main.98480109.chunk.js.map",
+    "runtime-main.js": "/ReactJSUdemy/static/js/runtime-main.836f49ad.js",
+    "runtime-main.js.map": "/ReactJSUdemy/static/js/runtime-main.836f49ad.js.map",
+    "static/js/2.46f0517b.chunk.js": "/ReactJSUdemy/static/js/2.46f0517b.chunk.js",
+    "static/js/2.46f0517b.chunk.js.map": "/ReactJSUdemy/static/js/2.46f0517b.chunk.js.map",
+    "index.html": "/ReactJSUdemy/index.html",
+    "precache-manifest.a220e2bd40ea915f510438599fa28689.js": "/ReactJSUdemy/precache-manifest.a220e2bd40ea915f510438599fa28689.js",
+    "service-worker.js": "/ReactJSUdemy/service-worker.js",
+    "static/css/main.23e044e2.chunk.css.map": "/ReactJSUdemy/static/css/main.23e044e2.chunk.css.map",
+    "static/js/2.46f0517b.chunk.js.LICENSE.txt": "/ReactJSUdemy/static/js/2.46f0517b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/ReactJSUdemy/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/ReactJSUdemy/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/ReactJSUdemy/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/ReactJSUdemy/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/ReactJSUdemy/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/ReactJSUdemy/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/ReactJSUdemy/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/ReactJSUdemy/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/ReactJSUdemy/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/ReactJSUdemy/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.jpg": "/ReactJSUdemy/static/media/logo.e0a371e7.jpg",
+    "static/media/video-placeholder.jpg": "/ReactJSUdemy/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.836f49ad.js",
+    "static/js/2.46f0517b.chunk.js",
+    "static/css/main.23e044e2.chunk.css",
+    "static/js/main.98480109.chunk.js"
+  ]
 }
